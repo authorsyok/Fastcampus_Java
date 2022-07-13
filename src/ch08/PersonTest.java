@@ -1,4 +1,4 @@
-package ch09;
+package ch08;
 
 class Person {
 	String name;
